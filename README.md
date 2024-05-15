@@ -1,4 +1,4 @@
-# POLICY ITERATION ALGORITHM
+# EXP :03 POLICY ITERATION ALGORITHM
 
 ## AIM:
 To implement a policy iteration algorithm for the given MDP.
